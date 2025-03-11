@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pdfplumber
+python-docx
+pdf2image
+pytesseract
+tiktoken
+langchain
+langchain-community
+pinecone
+python-multipart
+openai
